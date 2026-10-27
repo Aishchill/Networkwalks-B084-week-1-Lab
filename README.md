@@ -53,7 +53,8 @@ The virtual machine was configured with appropriate system resources and an enab
 - Complete the initial operating system and user configuration.
 - Restart the virtual machine and log in.
 
-  <img width="1882" height="652" alt="image" src="https://github.com/user-attachments/assets/3de55034-4d96-4a70-b963-5eaee39bbc56" />
+  <img width="1912" height="1022" alt="image" src="https://github.com/user-attachments/assets/1449cd46-50be-4028-b40f-18c184a3d3bf" />
+
 
 
 ### 3. Configure Network Settings
