@@ -53,6 +53,9 @@ The virtual machine was configured with appropriate system resources and an enab
 - Complete the initial operating system and user configuration.
 - Restart the virtual machine and log in.
 
+  <img width="1882" height="652" alt="image" src="https://github.com/user-attachments/assets/3de55034-4d96-4a70-b963-5eaee39bbc56" />
+
+
 ### 3. Configure Network Settings
 
 - Open the virtual machine's **Settings → Network**.
@@ -70,6 +73,9 @@ Open the browser in Kali Linux and visit a website to confirm that internet acce
 
 **Test in Terminal**
 ping google.com
+
+<img width="1882" height="652" alt="Screenshot 2026-10-27 090303" src="https://github.com/user-attachments/assets/6d370a13-22f4-4236-91b2-d29c4c7abae6" />
+
 
 ## Results
 
