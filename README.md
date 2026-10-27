@@ -1,5 +1,3 @@
-# Networkwalks-B084-week-1-Lab
-
 # Kali Linux Lab Setup Using Oracle VirtualBox
 
 ##  Overview
